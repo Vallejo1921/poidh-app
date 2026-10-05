@@ -1,0 +1,33 @@
+{
+  "default_branch": "prod",
+  "branches": [
+    "connect-wallet-ux",
+    "fix/completed-bounty-status-voting",
+    "origin",
+    "prod",
+    "revert-1549-carousel-refactor",
+    "revert-1556-perf/bounty-page-loading",
+    "staging",
+    "working"
+  ],
+  "parent": {
+    "connect-wallet-ux": "prod",
+    "fix/completed-bounty-status-voting": "prod",
+    "origin": "prod",
+    "prod": null,
+    "revert-1549-carousel-refactor": "prod",
+    "revert-1556-perf/bounty-page-loading": "prod",
+    "staging": "prod",
+    "working": "prod"
+  },
+  "order": [
+    "prod",
+    "connect-wallet-ux",
+    "fix/completed-bounty-status-voting",
+    "origin",
+    "revert-1549-carousel-refactor",
+    "revert-1556-perf/bounty-page-loading",
+    "staging",
+    "working"
+  ]
+}
