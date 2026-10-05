@@ -26,7 +26,6 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # local env files
-.env
 .env*.local
 
 # vercel
@@ -45,3 +44,4 @@ sitemap-*.xml
 /generated/prisma/
 /prisma/generated/
 /.prisma/
+config.bat
